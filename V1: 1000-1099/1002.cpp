@@ -62,8 +62,6 @@ bool ax_plus_by(int a,int b,int c,int &x0,int &y0,int &g){g=gcd(abs(a),abs(b),x0
 //v64 pr;void sieve(ll N,ll primes[]){for(ll i=2;i<N;i++){if(primes[i]==0){pr.pb(i);for(ll j=i*i;j<N;j+=i){primes[j]=1;}}primes[i]^=1;}}
 //
 //<< fixed << setprecision(x) <<
- 
-/*_________________________________________________________________________________________*/
 
 void solve(int it)
 {
